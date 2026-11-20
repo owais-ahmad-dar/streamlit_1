@@ -16,6 +16,6 @@ if login:
     st.write(subject)
 
 st.divider()
-st.image(r"C:\Users\OWAIS AHMAD\OneDrive\Pictures\WhatsApp Image 2026-11-19 at 11.54.37 AM.jpeg")
+#st.image(r"C:\Users\OWAIS AHMAD\OneDrive\Pictures\WhatsApp Image 2026-11-19 at 11.54.37 AM.jpeg")
 import os
 st.image(os.path.join(os.getcwd(),"static","babar.jpg"))
